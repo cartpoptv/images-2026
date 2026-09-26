@@ -1,4 +1,2 @@
-*.css linguist-vendored
-*.json linguist-vendored
-CMakeLists.txt linguist-vendored
-*.cmake linguist-vendored
+# Images are never text: no line-end conversions.
+* -text
