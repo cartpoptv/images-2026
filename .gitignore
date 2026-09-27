@@ -10,3 +10,4 @@ manifest.json
 *.arw
 *.raf
 *.raw
+.idea/
