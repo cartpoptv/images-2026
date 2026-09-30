@@ -1,0 +1,13 @@
+index.html
+manifest.json
+*.tif
+*.tiff
+*.psd
+*.dng
+*.nef
+*.cr3
+*.cr2
+*.arw
+*.raf
+*.raw
+.idea/

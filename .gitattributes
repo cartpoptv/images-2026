@@ -1,0 +1,2 @@
+# Images are never text: no line-end conversions.
+* -text
